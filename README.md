@@ -7,3 +7,7 @@
 * Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 * App Launcher: [Dmenu](https://tools.suckless.org/dmenu/)
 * Shell: [Fish](https://fishshell.com/)
+
+# setup
+
+uhh ig you put the dotfiles where they belong
