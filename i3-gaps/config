@@ -193,7 +193,7 @@ bar {
 	workspace_buttons no
 }
 
-exec_always feh --bg-fill /home/antonios/Downloads/dark-night-river-forest-minimal-art.jpg
+exec_always feh --bg-fill /home/<username>/Downloads/dark-night-river-forest-minimal-art.jpg
 
 # Removes titlebars and adds borders
 for_window [class=".*"] border pixel 4
