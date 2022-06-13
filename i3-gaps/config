@@ -196,7 +196,7 @@ bar {
 exec_always feh --bg-fill /home/antonios/Downloads/dark-night-river-forest-minimal-art.jpg
 
 # Removes titlebars and adds borders
-for_window [class=".*"] border pixel 3
+for_window [class=".*"] border pixel 4
 
 # class					border	backgr.	text	indic.	child_border
 client.focused			#666666	#666666	#000000	#666666	#666666
