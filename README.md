@@ -2,12 +2,12 @@
 
 * OS: [Arch Linux](https://archlinux.org/)
 * WM: [i3-gaps](https://github.com/Airblader/i3)
-* Bar: [Bumblebee Status](https://github.com/tobi-wan-kenobi/bumblebee-status)
+* Bar: [Polybar](https://github.com/polybar/polybar)
 * Compositor: [Picom](https://github.com/yshui/picom)
 * Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-* App Launcher: [Dmenu](https://tools.suckless.org/dmenu/)
+* App Launcher: [Rofi](https://davatorium/rofi)
 * Shell: [Fish](https://fishshell.com/)
 
 # setup
 
-uhh ig you put the dotfiles where they belong
+Move all the folders to your $XDG_CONFIG_HOME
